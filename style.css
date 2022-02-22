@@ -1,0 +1,48 @@
+body{font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-size: 60px;
+
+
+}
+.text{
+    color: midnightblue;
+    border-left: 5px solid green;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.yellow-color{
+    color: yellow;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+}
+.half-width p{
+    margin: 30px 0px;
+}
+.half-width img{
+    width: 50%;
+   
+
+}
+.ldlink-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    
+
+}
+.title{
+    text-align: center;
+    color: midnightblue;
+}
+#title-color{
+    color: yellow;
+}
