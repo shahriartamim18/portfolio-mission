@@ -1,34 +1,31 @@
 body{font-family: 'Source Sans Pro', sans-serif;
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
 
 
 }
 .text{
     color: midnightblue;
-    border-left: 5px solid green;
+    border-left: 4px solid green;
     border-radius: 3px;
-    padding-left: 10px;
+    padding-left: 1%;
 }
 .yellow-color{
     color: yellow;
 }
 section{
     display: flex;
-
 }
 .half-width{
-    width: 40%;
+    width: 50%;
     padding-left: 5%;
 }
 .half-width p{
     margin: 30px 0px;
 }
 .half-width img{
-    width: 30%;
-   
-
+    width: 50%;
 }
 .ldlink-button{
     text-decoration: none;
@@ -47,4 +44,39 @@ section{
 #title-color{
     color: yellow;
 }
+.text-mission{color: midnightblue;
+}
+.mission-2020{
+    width: 30%;
+    background-color: aquamarine;
+    border-radius: 5%;
+    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.mission-2020 img{
+    width: 50%;
 
+}
+.mission-2021{
+    width: 30%;
+    background-color: azure;
+    border-radius: 5%;
+    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+.mission-2021 img{
+width:50% ;
+}
+.mission-2022{
+    width: 30%;
+    background-color:wheat;
+    border-radius: 5%;
+    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+.mission-2022 img{
+    width: 50%;
+}
