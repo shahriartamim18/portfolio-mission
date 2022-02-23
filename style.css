@@ -6,7 +6,7 @@ h1{
 
 }
 .text{
-    color: midnightblue;
+    color: black;
     border-left: 4px solid green;
     border-radius: 3px;
     padding-left: 1%;
@@ -87,4 +87,41 @@ width:50% ;
 #color-m{
     color: midnightblue;
 }
+.contract-color{
+    color: red;
+    text-align: center;
+}
+.mid-color{
+    color: midnightblue;
+}
+.half-width1{
+    text-align: center;
+    width: 100%;
+    background-color: tomato;
+    border-radius: 10%;
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
+.footer{    background-color: black;
+    padding: 20px;
+    text-align: center;
+    width: 97%;
+}
+.h2-work{
+text-align: center;
+    width:100% ;
+
+}
+#color-white{
+    color: white;
+}
+#gold-color{
+    color: gold;
+}
+.footer-work{
+    text-align: center;
+    color: white;
+    width: 100%;
+}
