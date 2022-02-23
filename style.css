@@ -16,6 +16,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -79,4 +80,12 @@ width:50% ;
 }
 .mission-2022 img{
     width: 50%;
+}
+.ytlink-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
 }
