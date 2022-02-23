@@ -81,7 +81,21 @@ width:50% ;
 .mission-2022 img{
     width: 50%;
 }
+#color{color: midnightblue;
+
+}
+#color-m{
+    color: midnightblue;
+}
 .ytlink-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.dnlink-button{
     text-decoration: none;
     background-image: linear-gradient(tomato, orange);
     padding: 10px 30px;
