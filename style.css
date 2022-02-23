@@ -28,7 +28,7 @@ section{
 .half-width img{
     width: 50%;
 }
-.ldlink-button{
+.link-button{
     text-decoration: none;
     background-image: linear-gradient(tomato, orange);
     padding: 10px 30px;
@@ -87,19 +87,4 @@ width:50% ;
 #color-m{
     color: midnightblue;
 }
-.ytlink-button{
-    text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
-    padding: 10px 30px;
-    border-radius: 10px;
-    color: white;
-    font-weight: 700;
-}
-.dnlink-button{
-    text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
-    padding: 10px 30px;
-    border-radius: 10px;
-    color: white;
-    font-weight: 700;
-}
+
